@@ -8,7 +8,7 @@ Short code snippet written to easily make better alt text for DNA and RNA sequen
 ## Use:
 Run from terminal like: `python quick-seq-alt-text.py [SEQUENCE]'
 
-[SEQUENCE] is the string representing an RNA or DNA sequence. Output will be the same sequence with quotes around each character and dashes in between. This forces screen readers to read out each letter. [More info on why.](https://github.com/JCDCalso/accessible-tex-skeletonizer/wiki/How-to-write-Alt-Text-for-DNA-and-RNA-Sequences)
+[SEQUENCE] is the string representing an RNA or DNA sequence. Output will be the same sequence with quotes around each character and dashes in between. This forces screen readers to read out each letter. [More info on why.](https://github.com/JCDCalso/accessible-tex-skeletonizer/wiki/How-to-write-Alt-Text-for-DNA-and-RNA-Sequences#screen-reader-considerations)
 
 ### Example:
 
